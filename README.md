@@ -1,0 +1,2 @@
+# bookbot
+ignore lmao
